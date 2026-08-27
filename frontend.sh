@@ -1,4 +1,4 @@
-#Frontend shell script
+##Frontend shell script
 source common.sh
 
 echo -e "${YC}Install Nginx${NC}"
